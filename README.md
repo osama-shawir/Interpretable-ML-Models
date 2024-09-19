@@ -1,6 +1,3 @@
-Sure, here is a README in Markdown format for your repository:
-
-```md
 # Interpretable-ML-Models
 
 This repository contains a Jupyter notebook that demonstrates the use of interpretable machine learning models to analyze customer churn data. The primary goal is to build models that are not only accurate but also interpretable, allowing us to understand the factors that influence customer churn.
